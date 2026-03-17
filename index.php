@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Online-Tutor - Online-Tutor HTML Template</title>
+    <title>Digital Learning Coach HTML Template</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -44,7 +44,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
         <a href="index.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <h2 class="m-0 text-primary"><i class="fa fa-book me-3"></i>Online-Tutor</h2>
+            <h2 class="m-0 text-primary"><i class="fa fa-book me-3"></i>Digital Learning Coach</h2>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -79,8 +79,8 @@
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-sm-10 col-lg-8">
-                                <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Top Online Courses</h5>
-                                <h1 class="display-3 text-white animated slideInDown">Learn Anywhere, Anytime: Education at Your Doorstep</h1>
+                                <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Leading Online Learning Options</h5>
+                                <h1 class="display-3 text-white animated slideInDown">Study Without Boundaries: Learning at Your Convenience</h1>
                                 <p class="fs-5 text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea sanctus eirmod elitr.</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                 <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Join Now</a>
@@ -95,8 +95,8 @@
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-sm-10 col-lg-8">
-                                <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Best Online Courses</h5>
-                                <h1 class="display-3 text-white animated slideInDown">Get Educated Online From Your Home</h1>
+                                <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Leading Online Study Options</h5>
+                                <h1 class="display-3 text-white animated slideInDown">Home-Based Online Learning Made Easy</h1>
                                 <p class="fs-5 text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea sanctus eirmod elitr.</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                 <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Join Now</a>
